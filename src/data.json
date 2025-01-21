@@ -1,0 +1,170 @@
+[
+  {
+    "date": "4/10/2022",
+    "age": 20,
+    "gender": "male",
+    "feature": "A",
+    "timeSpent": 24
+  },
+  {
+    "date": "2024-01-12",
+    "age": 30,
+    "gender": "female",
+    "feature": "B",
+    "timeSpent": 25
+  },
+  {
+    "date": "2024-01-15",
+    "age": 22,
+    "gender": "male",
+    "feature": "C",
+    "timeSpent": 65
+  },
+  {
+    "date": "2024-01-20",
+    "age": 27,
+    "gender": "female",
+    "feature": "D",
+    "timeSpent": 59
+  },
+  {
+    "date": "2024-01-25",
+    "age": 35,
+    "gender": "male",
+    "feature": "E",
+    "timeSpent": 76
+  },
+  {
+    "date": "2024-02-01",
+    "age": 29,
+    "gender": "female",
+    "feature": "F",
+    "timeSpent": 27
+  },
+  {
+    "date": "2024-02-05",
+    "age": 24,
+    "gender": "male",
+    "feature": "A",
+    "timeSpent": 30
+  },
+  {
+    "date": "2024-02-10",
+    "age": 32,
+    "gender": "female",
+    "feature": "B",
+    "timeSpent": 20
+  },
+  {
+    "date": "2024-02-15",
+    "age": 26,
+    "gender": "male",
+    "feature": "C",
+    "timeSpent": 80
+  },
+  {
+    "date": "2024-02-18",
+    "age": 21,
+    "gender": "female",
+    "feature": "D",
+    "timeSpent": 50
+  },
+  {
+    "date": "2024-02-22",
+    "age": 33,
+    "gender": "male",
+    "feature": "E",
+    "timeSpent": 70
+  },
+  {
+    "date": "2024-02-28",
+    "age": 28,
+    "gender": "female",
+    "feature": "F",
+    "timeSpent": 35
+  },
+  {
+    "date": "2024-03-02",
+    "age": 23,
+    "gender": "male",
+    "feature": "A",
+    "timeSpent": 40
+  },
+  {
+    "date": "2024-03-05",
+    "age": 31,
+    "gender": "female",
+    "feature": "B",
+    "timeSpent": 18
+  },
+  {
+    "date": "2024-03-10",
+    "age": 25,
+    "gender": "male",
+    "feature": "C",
+    "timeSpent": 60
+  },
+  {
+    "date": "2024-03-15",
+    "age": 22,
+    "gender": "female",
+    "feature": "D",
+    "timeSpent": 45
+  },
+  {
+    "date": "2024-03-20",
+    "age": 37,
+    "gender": "male",
+    "feature": "E",
+    "timeSpent": 85
+  },
+  {
+    "date": "2024-03-25",
+    "age": 34,
+    "gender": "female",
+    "feature": "F",
+    "timeSpent": 29
+  },
+  {
+    "date": "2024-03-28",
+    "age": 26,
+    "gender": "male",
+    "feature": "A",
+    "timeSpent": 38
+  },
+  {
+    "date": "2024-04-02",
+    "age": 29,
+    "gender": "female",
+    "feature": "B",
+    "timeSpent": 22
+  },
+  {
+    "date": "2024-04-05",
+    "age": 24,
+    "gender": "male",
+    "feature": "C",
+    "timeSpent": 75
+  },
+  {
+    "date": "2024-04-10",
+    "age": 32,
+    "gender": "female",
+    "feature": "D",
+    "timeSpent": 55
+  },
+  {
+    "date": "2024-04-15",
+    "age": 39,
+    "gender": "male",
+    "feature": "E",
+    "timeSpent": 90
+  },
+  {
+    "date": "2024-04-20",
+    "age": 30,
+    "gender": "female",
+    "feature": "F",
+    "timeSpent": 33
+  }
+]
